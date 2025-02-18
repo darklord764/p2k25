@@ -1,0 +1,14 @@
+[
+    {
+    "Title": "Astro Quest",
+    "Description": "The competition comprises of debate and quiz which is oriented about fascinating subject of space & Astronomy",
+    "Prize Pool":"5000",
+    "Venue_Location" : "A3 Hall"
+    },
+    {
+    "Title": ".Math – e- Magic",
+    "Description": "Math-e-Magic is a competition designed to challenge participants’ problemsolving skills and mathematical reasoning. ",
+    "Prize Pool":"5000",
+    "Venue_Location" : "AB6"
+    }
+]

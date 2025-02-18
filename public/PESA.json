@@ -1,0 +1,15 @@
+[
+  {
+      "Title": "Shark Tank SGGS",
+      "Description": "Shark Tank SGGS is a dynamic event where students pitch innovative business ideas, products, or startups to a panel of judges, competing for exciting prizes based on their creativity, feasibility, and presentation skills.",
+      "Prize_Pool": "15000",
+      "Venue_Location": "A4 Hall"
+  },
+  {
+      "Title": "CAD AND CATIA",
+      "Description": "CAD (Computer-Aided Design) is software used to create detailed 2D and 3D models for design and engineering purposes, improving accuracy and efficiency across various industries. CATIA is a powerful CAD software developed by Dassault Systèmes, known for its advanced 3D modeling, product design, and engineering capabilities, particularly in aerospace, automotive, and industrial sectors.",
+      "Prize_Pool": "N/A",
+      "Venue_Location": "A4 Hall"
+  }
+  
+]

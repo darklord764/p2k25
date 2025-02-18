@@ -1,0 +1,75 @@
+[
+    {
+      "Title": "Mega Quiz",
+      "Description": "The Mega Quiz is an exciting and intellectually stimulating competition designed to test participants' knowledge across various domains. This activity combines education and entertainment, fostering healthy competition among participants.",
+      "Venue_Location": "Admin Building"
+    },
+    
+    {
+      "Title": "CAD War",
+      "Description": "The primary objective of a CAD event is to showcase and celebrate the creativity, skills, and innovation of participants in utilizing CAD software to design and visualize concepts.",
+      "Venue_Location": "Mechanical Dept & Civil Dept Classrooms"
+    },
+    {
+      "Title": "Town Planning",
+      "Description": "Engage in urban development challenges in Town Planning. Participants can formulate strategic plans for optimizing land use, infrastructure, and community amenities. Address aspects of urban planning, including transportation, housing, green spaces, and commercial areas.",
+      "Venue_Location": "Civil Dept"
+    },
+    {
+      "Title": "Bridge Building Competition",
+      "Description": "Design and construct a bridge using only specific materials provided by Team CESA. Test the strength and durability of your bridge by applying various loads. Compete to see which bridge can hold the most weight without collapsing.",
+      "Venue_Location": "Civil Dept"
+    },
+    {
+      "Title": "Gear Based Puzzle",
+      "Description": "Challenge yourself to design and build gear mechanisms that achieve specific objectives, such as speed reduction, torque multiplication, and complex motion. Compete with other participants to build the most efficient mechanism.",
+      "Venue_Location": "Mechanical Dept"
+    },
+    {
+      "Title": "Chem Crafter Challenge",
+      "Description": "The Chem Crafter Challenge is a two-round event testing conceptual knowledge, creativity, and problem-solving abilities in chemistry. It combines Chemical Pictionary and Molecule Model Building.",
+      "Venue_Location": "Chemical Dept"
+    },
+    {
+      "Title": "Quiz",
+      "Description": "Step into the thrilling world of cybersecurity with CyberSecure Challenge, a three-round competition testing knowledge, quick thinking, and problem-solving skills in digital security.",
+      "Venue_Location": "IT Dept"
+    },
+    {
+      "Title": "Astro Quest",
+      "Description": "Astro Quest features debates and quizzes focused on the fascinating subject of space exploration and astronomy.",
+      "Venue_Location": "Complex Hall"
+    },
+    {
+      "Title": "Chess Competition",
+      "Description": "Showcase your strategic skills in an exciting chess tournament open to all skill levels.",
+      "Venue_Location": "Gym/Open space above Ten Bhagyanagar/Papa’s Café"
+    },
+    {
+      "Title": "Coding Competition",
+      "Description": "Participate in a coding competition designed to test your programming skills across various languages and platforms.",
+      "Venue_Location": "To be announced"
+    },
+    {
+      "Title": "Tech Antakshari",
+      "Description": "Tech Antakshari is a fun and interactive event blending technology trivia with the classic Antakshari format.",
+      "Venue_Location": "To be announced"
+    },
+    {
+      "Title": "Component Hunt",
+      "Description": "Scour the campus for hidden components and complete technical challenges in this thrilling scavenger hunt.",
+      "Venue_Location": "To be announced"
+    },
+    {
+      "Title": "Meme Malware",
+      "Description": "Compete by designing memes that creatively explain technical cybersecurity concepts and issues.",
+      "Venue_Location": "To be announced"
+    },
+    {
+      "Title": "Advertisement/Virtual Poster for Sponsors",
+      "Description": "Design virtual posters and advertisements to attract sponsorship and promote the event.",
+      "Venue_Location": "To be announced"
+    }
+    
+  ]
+  

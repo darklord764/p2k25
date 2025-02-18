@@ -1,0 +1,9 @@
+[
+    {
+        "Title": "Math-e-Magic",
+        "Description": "Math-e-Magic is a competition designed to challenge participants’ problem-solving skills and mathematical reasoning.",
+        "Rules": "**Participation Details:**\n1. **Team Participation:** Teams can have up to 3 members.\n2. **Individual Participation:** Solo participants will compete alongside teams.\n\n**Event Structure:**\n**Stage 1: Elimination Round**\n- Format: Teams solve a question paper.\n- Syllabus: 10+2 Level Mathematics\n- Duration: 30 minutes\n- Questions: 15 multiple-choice questions\n- Marking Scheme: +4 for correct, -1 for incorrect, 0 for no answer\n- Outcome: Top 50% of teams advance to Stage 2.\n\n**Stage 2: Advanced Rounds**\n1. **Buzzer Round:**\n   - Teams press the buzzer to answer.\n   - Scoring: +10 for correct, -5 for incorrect\n   - No discussion allowed post-buzzer\n   - Simultaneous buzzers: Answers on paper; points split if both correct\n2. **Paragraph Round:**\n   - Analyze a provided context and answer two questions.\n   - Scoring: +10 per correct answer\n3. **Surprise Round:**\n   - Details disclosed during the event\n",
+        "Prize_Pool":"5000",
+        "Venue_Location" : "AB6"
+    }
+]

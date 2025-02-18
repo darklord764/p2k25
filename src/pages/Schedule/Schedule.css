@@ -1,0 +1,211 @@
+.exp-wrapper {
+  padding-left:5%;
+  padding-right:5%;
+  padding-bottom:5%;
+  background-color: #272727;
+  border-bottom: 0.1px solid #585b63;
+}
+.timeline-wrapper{
+  padding: 20px;
+}
+
+.vertical-timeline::before {
+  background-color: #ece7e1;
+}
+
+.vertical-timeline {
+  padding-top: 2em;
+}
+
+.vertical-timeline-element-subtitle{
+    margin-top: 0.5em;
+}
+
+.exp-wrapper .exp-title {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.exp-wrapper .exp-title .title {
+  font-family: "main";
+  letter-spacing: 2px;
+  font-size: 80px;
+  color: #ece7e1;
+  padding-top: 70px;
+  /* padding-bottom: 20px; */
+
+}
+
+.exp-wrapper .exp-subtitle {
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+}
+.exp-wrapper .exp-subtitle .subtitle{
+  font-size: 30px;
+  color: #fff2;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+
+}
+.exp-wrapper h3 {
+  padding-top: 0.25em;
+}
+
+
+
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25),
+    0 0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+  padding: 2em 3em !important;
+}
+
+.date {
+  color: rgba(255, 255, 255, 1);
+  font-family: "Gilroy-regular";
+}
+
+#description {
+  margin: 1.5em 0 2em 0;
+  font-family: "Gilroy-light";
+}
+.exp-wrapper .button {
+  text-decoration: none;
+  padding: 0.7em 1em;
+  border-radius: 15px;
+  color: #ece7e1;
+  font-family: "Gilroy-light";
+}
+
+.vertical-timeline--animate .vertical-timeline-element-content.bounce-in {
+  background-color: #ece7e1;
+  border-radius: 20px;
+}
+.vertical-timeline-element-content-arrow {
+  border-right-color: #ece7e1;
+}
+
+.workButton {
+  background-color: #1a1818;
+  color: #ece7e1;
+
+}
+
+.schoolButton {
+  background-color: #1a1818;
+  color: #ece7e1;
+}
+
+
+@media screen and (max-width:1170px) {
+.vertical-timeline-element-content .vertical-timeline-element-date{
+  color: #1a1818;
+}
+  
+}
+@media only screen and (max-width: 1700px) {
+  .vertical-timeline-element-date {
+    display: block !important;
+    float: none !important;
+  }
+}
+
+@media only screen and (max-width: 1199px) {
+  .vertical-timeline-element-date {
+    margin-top: 0.5em;    
+  }
+}
+
+@media screen and (min-width : 900.99px){
+  .exp-wrapper .exp-title .title{
+    font-size: 60px;
+  }
+  .exp-wrapper .exp-subtitle .subtitle{
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 600px) and (max-width: 670px) {
+  .exp-wrapper {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover; 
+    background-position: center; 
+  }
+
+  .exp-wrapper .exp-title .title {
+    font-size: 35px; /* Slightly larger font for better readability */
+    text-align: center;
+  }
+
+  .exp-wrapper .exp-subtitle .subtitle {
+    font-size: 18px; /* Adjust subtitle size */
+    text-align: center;
+  }
+
+  .vertical-timeline {
+    padding-top: 1em; /* Adjust vertical padding */
+  }
+
+  .vertical-timeline-element-content {
+    padding: 1.5em 2em !important; /* Reduce padding for smaller widths */
+  }
+}
+
+
+@media screen and (max-width : 600.99px){
+  .exp-wrapper .exp-title .title{
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .exp-wrapper .exp-subtitle .subtitle{
+    font-size: 15px;
+  
+  }
+}
+
+@media screen and (min-width : 470.99px){
+  .exp-wrapper .exp-title .title{
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .exp-wrapper .exp-subtitle .subtitle{
+    font-size: 15px;
+  
+  }
+
+
+}
+
+@media screen and (min-width: 300px) and (max-width: 570px) {
+  /* .exp-wrapper {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-size: cover; 
+    background-position: center; 
+  } */
+
+  .exp-wrapper .exp-title .title {
+    font-size: 30px; 
+    text-align: center;
+  }
+
+  .exp-wrapper .exp-subtitle .subtitle {
+    font-size: 12px; 
+    text-align: center;
+  }
+
+  .vertical-timeline {
+    padding-top: 1em;
+  }
+
+  .vertical-timeline-element-content {
+    padding: 1.5em 2em !important; 
+  }
+}
+

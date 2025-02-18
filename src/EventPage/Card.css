@@ -1,0 +1,78 @@
+/* CardGrid.css */
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Default: 4 cards per row */
+    gap: 15px; /* Adjusted gap between cards */
+    justify-items: center; /* Center cards horizontally */
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  .card {
+    width: 336px; /* Fixed width for the cards */
+    height: 336px; /* Fixed height for the cards */
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+  }
+  
+  .card button {
+    all: unset; 
+    cursor: pointer;  
+  }
+  
+
+  .card:hover {
+    transform: translateY(-10px); 
+    transform: translateY(-20px); /*Hover effect for cards*/
+    box-shadow: 0 0 60px 5px rgb(130, 6, 133); /* Purple glowing effect on hover */
+    border-color: rgb(180, 1, 147);
+  }
+  
+  @media (max-width: 1200px) {
+    .card-grid {
+      grid-template-columns: repeat(3, 1fr); /* 3 cards per row on medium screens */
+    }
+  
+    .card {
+      width: 336px; /* Keep the card width fixed */
+      height: 280px; /* Reduce height for medium screens */
+    }
+  }
+  
+  @media (max-width: 900px) {
+    .card-grid {
+      grid-template-columns: repeat(2, 1fr); /* 2 cards per row on small screens */
+    }
+  
+    .card {
+      width: 336px; /* Keep the card width fixed */
+      height: 240px; /* Reduce height for small screens */
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .card-grid {
+      grid-template-columns: 1fr; /* 1 card per row on very small screens */
+    }
+  
+    .card {
+      width: 336px; /* Keep the card width fixed */
+      height: 200px; /* Reduce height for very small screens */
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .card {
+      width: 336px; /* Keep the card width fixed */
+      height: 180px; /* Further reduce height for screens smaller than 500px */
+    }
+  }
+  

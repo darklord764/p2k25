@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "Data Science",
+    "Description": "Dive into the world of Data Science, where you'll learn the key concepts and techniques that drive data-driven decision-making. This workshop covers data analysis, machine learning models, data visualization, and real-world applications. Whether you're a beginner or looking to enhance your skills, this session will guide you through the fundamentals and advanced topics in Data Science.",
+    "Engg_Domains": "CSE/IT/ECE",
+    "Venue_Location": "Coming soon..."
+  },
+  {
+    "Title": "Python for AIML",
+    "Description": "Unlock the potential of Python in Artificial Intelligence and Machine Learning (AIML). This workshop will teach you how to leverage Python's powerful libraries like NumPy, Pandas, TensorFlow, and Scikit-learn for building AI and ML models. You'll gain hands-on experience in implementing algorithms and solving real-world problems, making it perfect for aspiring data scientists and developers.",
+    "Engg_Domains": "CSE/IT/ECE",
+    "Venue_Location": "Coming soon..."
+  },
+  {
+    "Title": "Surveying ",
+    "Description": "Join us for a comprehensive workshop on surveying, where you'll learn about modern techniques used in land measurement and mapping. From understanding basic concepts like GPS and Total Stations to more advanced tools like GIS, this workshop will equip you with the skills necessary for a career in surveying and geospatial technology.",
+    "Engg_Domains": "CIVIL/MECHANICAL",
+    "Venue_Location": "Coming soon..."
+  },
+  {
+    "Title": "Resume",
+    "Description": "Craft a standout resume with our interactive resume-building workshop. Learn how to present your skills, experience, and accomplishments in the most impactful way to potential employers. This session will provide practical tips, formatting strategies, and guidance on tailoring your resume for specific job roles in the tech industry. ",
+    "Engg_Domains": "CSE/IT/ECE",
+    "Venue_Location": "Coming soon..."
+  },
+  {
+    "Title": "CAD AND CATIA",
+    "Description": "Explore the world of Computer-Aided Design (CAD) and CATIA, one of the most advanced software tools used in product design and engineering. In this workshop, you'll gain hands-on experience in designing 3D models, assemblies, and simulations. Whether you're a beginner or looking to sharpen your skills, this session will provide the essential knowledge required to excel in the CAD/CATIA environment",
+    "Engg_Domains": "CIVIL/MECHANICAL",
+    "Venue_Location": "Coming soon..."
+  }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Voltage Voyage",
+        "Description": "Navigate the Power of Electricity! Embark on an electrifying journey with Voltage Voyage, a thrilling competition designed for electrical engineering enthusiasts! This event challenges participants with a mix of circuit design, troubleshooting, problem-solving, and electrical trivia. Test your technical knowledge, practical skills, and teamwork as you navigate through exciting rounds to emerge as the ultimate electrical champion. Charge up your skills, spark innovation, and set sail on this electrifying voyage! Are you ready?",
+        "Rules": [
+            "1. Correct answers will earn the team 1 point, while wrong answers will result in 0 points.\n",
+            "2. The event consists of 3 stages, with each stage offering different challenges.\n",
+            "3. Teams with the highest scores at the end of each stage will progress to the next stage.\n",
+            "4. Teams with the lowest scores at the end of each stage will be disqualified."
+        ],
+        "Prize Pool": "5000",
+        "Venue Location": "Electrical Department"
+    },
+    {
+        "Title": "Wire Whispering",
+        "Description": "Explore the metal wire loop and try to find the solution! This event tests your precision, patience, and problem-solving skills as you navigate a challenging wire loop. Can you complete the circuit without breaking the connection? Accept the challenge and prove your steady hands and sharp focus!",
+        "Rules": [
+            "1. Person should guide metal loop along a twisted wire from one end to another without touching the wire.\n",
+            "2. Only one participant allowed.\n",
+            "3. If the loop touches the wire, the player is disqualified."
+        ],
+        "Prize Pool": "5000",
+        "Venue Location": "Electrical Department"
+    }
+    
+]

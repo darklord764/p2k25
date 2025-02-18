@@ -1,0 +1,49 @@
+[
+    {
+      "Title": "Robotic Wedge War",
+      "Description": "Robotic Wedge War is an exhilarating robotics competition where teams design and build robots to compete in a game of strategy and skill. The event typically involves robots battling to push, capture, or defend a wedge-shaped target on a predefined arena, resembling a real-world wedge war. Teams design and control their robots to outmaneuver opponents, secure wedges, or dominate territories within a competitive arena. The event tests participants' technical skills in robot-building, programming, and strategic thinking.",
+      "How_It_Works": "1. Participants: Teams of 3–5 members, each responsible for designing, building, and operating a robot.\n2. Robots: Robots are designed within specified dimensions, weight, and material constraints. Robots can be wired or wireless, depending on the competition rules. Power sources (e.g., batteries) and motors are standardized to ensure fair play.\n3. Arena: A closed battlefield or arena with specific zones for wedges or territories. Obstacles, ramps, or elevated platforms may be added to increase complexity.\n4. Game Format:\na. Capture the Wedge: Robots battle to push or retrieve wedge-shaped objects to their base or scoring zone.\nb. Knockout Battles: Robots compete to push opponents out of the arena while defending their wedges.\nc. Time-Based Challenges: Teams aim to capture as many wedges as possible within a given time.\nd. Strategic Gameplay: Teams must balance offense (attacking wedges) and defense (protecting their base).\nRobotic Wedge War is an exciting platform for students to showcase their engineering and robotics skills in a competitive yet fun environment. It promotes technical innovation, teamwork, and strategic thinking, offering participants and spectators an unforgettable experience.",
+      "Venue_Location": "PMC/Admin"
+    },
+
+    {
+        "Title": "IPL Auction SGGS",
+        "Description": "The IPL Auction event at our college is an engaging and competitive activity inspired by the Indian Premier League (IPL) auction. It blends strategy, teamwork, and fun, making it a favorite among students. The primary aim is to simulate a cricket team auction, where participants act as team owners and bid for players to build the most balanced and effective team within a set budget. The event tests students' decision-making, budgeting, and analytical skills while fostering teamwork.",
+        "How_It_Works": "1. Participants:\n- Students participate individually or in teams (usually 2-5 members per team).\n- Each team acts as a franchise owner, competing to form their IPL-style team.\n\n2. Player Pool:\n- A list of 'players' will be prepared in advance. These could be based on real IPL players, fictional characters, or even students' names.\n- Each player is assigned attributes like batting, bowling, or all-rounder skills, along with a base price.\n\n3. Virtual Budget:\n- Each team will receive a virtual budget (e.g., ₹100 crore) to spend during the auction.\n\n4. Auction Process:\n- An auctioneer (host/organizer) will conduct the bidding.\n- Players will be introduced one by one with their stats and base price.\n- Teams will bid competitively, and the highest bidder wins the player, with the bid amount deducted from their budget.\n\n5. Team Formation Rules:\n- Teams must meet specific criteria, including a minimum number of batsmen, bowlers, and all-rounders.\n\n6. Scoring/Winning Criteria:\n- Teams will be evaluated based on:\n  a. Balance of the team (player skills and roles).\n  b. Remaining budget (if applicable).\n  c. Strategic reasoning for player selections.\n- Bonus points may be awarded for innovative team names or creative strategies.\n\nThe IPL Auction at the college level blends sports enthusiasm, creativity, and critical thinking. It offers participants a fun and competitive experience while fostering camaraderie and honing practical skills.",
+        "Venue_Location": "CSE Circle/PMC/Auditorium (if available)"
+      },
+
+
+      {
+        "Title": "Mega Treasure Hunt",
+        "Description": "Mega Treasure Hunt is an exciting, large-scale event designed to test participants' problem-solving skills, teamwork, and adventurous spirit. The goal is for participants to solve puzzles, decode clues, and complete tasks that lead them step by step to the final treasure location. It challenges their intellect, creativity, collaboration, and endurance.",
+        "Structure_of_the_Event": "1. Starting Point:\n- Teams are given the first clue at a designated starting location.\n\n2. Series of Clues:\n- Clues are scattered across the campus or nearby areas, guiding teams from one location to another.\n\n3. Tasks and Challenges:\n- At specific locations, teams must complete mini-challenges or solve riddles to earn the next clue.\n- Challenges may include:\n  a. Physical tasks (e.g., obstacle courses, hidden object searches).\n  b. Logical puzzles (e.g., crosswords, sudoku, wordplay).\n  c. Mystery-solving, trivia, decoding ciphers, or QR code scans.\n\n4. The Treasure:\n- The final goal is to find the hidden treasure. It could be an object symbolizing the prize or a grand reward at the final destination.\n\nKey Elements:\n- Creative Clues: Themes may draw from pop culture, historical events, or campus landmarks. Clues could take the form of riddles, puzzles, maps, etc.\n- Themed Storyline: A cohesive storyline can be developed to enhance engagement.\n- Interactive Locations: Stops may include interesting campus spots such as labs, libraries, playgrounds, or hidden corners.\n- Time and Penalty System: Teams race against the clock, with penalties (e.g., time deductions) applied for incorrect answers or skipped challenges.\n\nMega Treasure Hunt is not just a fun-filled event but also a memorable experience. It hones critical thinking, leadership, and teamwork while promoting physical activity and social interaction. The thrill of racing others and the joy of uncovering the treasure make it a standout event for any college fest or gathering.",
+        "Venue_Location": "SGGS Campus"
+      },
+      
+      {
+        "Title": "Shark Tank SGGS",
+        "Description": "Shark Tank SGGS is a dynamic event where students pitch innovative business ideas, products, or startups to a panel of 'investors' in an attempt to secure hypothetical funding. Inspired by the popular TV show Shark Tank, this event simulates a real-world investment scenario. Participants present their entrepreneurial ideas, showcase business plans, and convince the panel of sharks to invest. It aims to foster critical thinking, innovation, and practical knowledge of business.",
+        "Structure_of_the_Event": "1. Idea Submission: Participants submit their business idea or pitch deck beforehand. Shortlisting is based on feasibility, innovation, and market potential.\n2. Pitch Presentation: Each team presents their idea to the panel within 5–10 minutes.\n3. Q&A Session: Sharks (judges) ask questions to assess the viability of the ideas.\n4. Investment Round: Sharks make hypothetical offers, individually or collaboratively, based on the appeal of the idea.",
+        "Venue_Location": "A4 Complex Hall / Auditorium (if available)"
+      },
+      {
+        "Title": "Mock Placement",
+        "Description": "Mock Placement simulates a real-world campus recruitment process, allowing students to experience placement drives, refine interview skills, and understand industry expectations. The event familiarizes students with the recruitment process by simulating rounds such as aptitude tests, group discussions, and interviews. It provides hands-on experience and constructive feedback to help students improve.",
+        "Participants": "Open to all students",
+        "Stages_of_the_Event": "1. Pre-Placement Talk: A session by the events team or invited professionals acting as company recruiters.\n2. Round 1: Aptitude Test - A timed test assessing logical reasoning, quantitative aptitude, and verbal ability, based on actual placement patterns.\n3. Round 2: Technical Interview - Focuses on core domain knowledge and problem-solving skills.\n4. Round 3: HR Interview - Assesses personality, behavior, and cultural fit.",
+        "Venue_Location": "Coming soon..."
+      },
+      {
+        "Title": "SGGS Mega Jamm",
+        "Description": "SGGS Mega Jamm is an event featuring performances by Gandharva Drama Club, Avroh Musical Club, and Fatal Dance Street Club. The three esteemed clubs will come together to showcase their talents and entertain the participants and audience.",
+        "Venue_Location": "PMC"
+      },
+      {
+        "Title": "Roadshows",
+        "Description": "Roadshow by Phoenix Club / Bikers Community to entertain participants and the audience.",
+        "Venue_Location": "To be announced"
+      }
+      
+]
+  

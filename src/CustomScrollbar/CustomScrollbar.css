@@ -1,0 +1,112 @@
+/* Base styles for all screen sizes */
+.custom-vertical-scrollbar {
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 8px;
+    /* Force scrollbar to always show on webkit browsers */
+    &::-webkit-scrollbar {
+      -webkit-appearance: none;
+      width: 12px;  /* Increased width for better visibility */
+    }
+  }
+  
+  /* Always show scrollbar for Firefox */
+  .custom-vertical-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #680c0c #f0f0f0;
+  }
+  
+  /* Track styles */
+  .custom-vertical-scrollbar::-webkit-scrollbar-track {
+    background: linear-gradient(
+      to bottom,
+      #f0f0f0,
+      #e0e0e0,
+      #f0f0f0
+    );
+    border-radius: 8px;
+    margin: 4px;
+    border: 1px solid #d0d0d0;  /* Added border for better visibility */
+  }
+  
+  /* Thumb styles */
+  .custom-vertical-scrollbar::-webkit-scrollbar-thumb {
+    background: linear-gradient(
+      45deg,
+      #680c0c 0%,
+      #a83232 25%,
+      #eb2825 50%,
+      #a83232 75%,
+      #680c0c 100%
+    );
+    border-radius: 8px;
+    border: 2px solid #f0f0f0;  /* Light border for contrast */
+    background-clip: padding-box;
+    transition: all 0.3s ease;
+    min-height: 40px;  /* Minimum height for thumb */
+  }
+  
+  /* Hover state */
+  .custom-vertical-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(
+      45deg,
+      #8b0f0f 0%,
+      #c93939 25%,
+      #ff3a37 50%,
+      #c93939 75%,
+      #8b0f0f 100%
+    );
+    border: 1px solid #f0f0f0;  /* Thinner border on hover */
+  }
+  
+  /* Active state */
+  .custom-vertical-scrollbar::-webkit-scrollbar-thumb:active {
+    background: linear-gradient(
+      45deg,
+      #ff3a37 0%,
+      #c93939 25%,
+      #8b0f0f 50%,
+      #c93939 75%,
+      #ff3a37 100%
+    );
+  }
+  
+  /* Styles for screens larger than 800px */
+  @media (min-width: 800px) {
+    .custom-vertical-scrollbar::-webkit-scrollbar {
+      width: 16px;  /* Even larger width for big screens */
+    }
+  
+    .custom-vertical-scrollbar::-webkit-scrollbar-thumb {
+      border: 3px solid #f0f0f0;  /* Larger border for better visibility */
+      min-height: 50px;  /* Larger minimum height */
+    }
+  
+    /* Force scrollbar to always show */
+    .custom-vertical-scrollbar {
+      overflow-y: scroll;
+    }
+  }
+  
+  /* Styles for mobile devices */
+  @media (max-width: 799px) {
+    .custom-vertical-scrollbar::-webkit-scrollbar {
+      width: 8px;
+    }
+    
+    .custom-vertical-scrollbar::-webkit-scrollbar-thumb {
+      background: linear-gradient(
+        45deg,
+        rgba(104, 12, 12, 0.9) 0%,
+        rgba(168, 50, 50, 0.9) 50%,
+        rgba(235, 40, 37, 0.9) 100%
+      );
+      border: 1px solid #f0f0f0;
+    }
+  }
+  
+  /* Ensure smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }

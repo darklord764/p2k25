@@ -1,0 +1,74 @@
+[
+  {
+    "Title": "Treasure Hunt",
+    "Description": "Treasure Hunt: Decode, Discover, Conquer! Embark on an exhilarating adventure where wit, teamwork, and quick thinking lead the way! Solve mind-bending clues, navigate hidden challenges, and race against time to uncover the ultimate treasure. With each clue bringing you closer to victory, this event tests your problem-solving skills, creativity, and teamwork. Are you ready to hunt, decode, and claim the treasure? Let the adventure begin!",
+    "Rules": "1.Participants: Students should participate only in team. 3-5 members per team\n2. Registered teams should be present 15 minutes before the start of the game.\n3. A fixed starting point of the game will be assigned to each team. Initially a clue will be given to the team\n4. A person from organising committee will accompany the team throughout the campus\n5. Teams must search other clues kept hidden around the college campus within the given time.\n6. Teams should stick to the designated event area.\n7. Cheating, misconducts will lead to disqualification\n8. Tampering with the clue will lead to disqualification\n9. Teams must respect college rules, avoid restricted areas.\n10.Organisers decisions is final and not to be contested.",
+    "Prize_Pool": "25000",
+    "Venue_Location": "PMC"
+  },
+  
+  {
+    "Title": "Chess Competition",
+    "Description": "Checkmate: The Ultimate Chess Battle! Showcase your strategic brilliance and tactical mastery in this intense chess competition. Whether you're a seasoned player or a rising enthusiast, this event challenges your thinking, patience, and precision. Compete against top minds, outmaneuver your opponents, and claim the title of chess champion. Think ahead, plan your moves, and checkmate your way to victory!",
+    "Rules": "1.Rules to be consider as per FIDE – Federation International Des Echecs (Standard Chess Rules)\n2.Time limit will be disclosed during the competition\n3. Refree's Decision will be final.",
+    "Prize_Pool": "5000",
+    "Venue_Location": "Gym"
+  },
+  {
+    "Title": "Codeclash",
+    "Description": "Clash of Code is a game to improve your coding efficiency by solving short programming problems with other people, at the same time. Players share their solution at the end of a game to help other players improve their coding skills.",
+    "Rules": null,
+    "Prize_Pool": "5000",
+    "Venue_Location": "Gym"
+  },
+  {
+    "Title": "IPL Auction",
+    "Description": "IPL Auction: Bid, Strategize, Conquer! Step into the thrilling world of cricket strategy, where teams take on the role of franchise owners to build their dream squad. With a set budget, participants must analyze player stats, outbid rivals, and create the ultimate team to compete in simulated matches. This event tests your cricket knowledge, decision-making skills, and auction tactics. Think like a team owner, bid like a champion, and build a winning squad!",
+    "Rules": "1.Participants: Students should participate in only in team. 3-5 members per team\n2. Team Formation: Teams must meet specific criteria, such as a minimum number of batsmen, bowlers, and all-rounders.\n3. Each team must contain four Overseas players. Squad size will be fixed for each team.\n4. Biding: (a) A standard amount will be set for bidding.\n (b) Bidding time per player suggested by the auctioneer should be followed.\n\n5. Virtual Budget:\n(a) Teams budget cannot exceed the fixed budget under any circumstances. Overspending will disqualify the team.\n (b) Unused budget will not carry any additional benefits.\n (c) Sharing of budgets between team is not allowed.\n6. The Auctioneer's Decision is final & Binding.\n7. Any kind of malpractice & misbehavior with the auctioneer as well as audience will lead to fine - penalties & disqualifications.\n8. Scoring/Winning Criteria:\nBefore the auction, organisers will decide specific ratings/points for specific players\nThe ratings/points for each player will be kept hidden till the auction ends\nWinner will be decided based on the total & maximum points /ratings",
+    "How_it_works": "1.Each team acts as a franchise owner, competing to form their IPL-style team.\n2.Player Pool: A list of \"players\" will be prepared in advance. These will be based on real IPL players\nEach player will be assigned with some ratings/points & attributes like batting, bowling, or all-rounder skills, and a base price.\n3.Virtual Budget: Each team will be given a virtual budget (e.g., ₹100 crore) to spend during the auction.\n4.Auction Process: An auctioneer (a designated host or organizer) will conduct the bidding. We will introduce players one by one, along with their stats and base price. Teams will bid competitively for players, raising the price until no further bids are made. The highest bidder wins the player, and the amount is deducted from their budget.",
+    "Prize_Pool": "8000",
+    "Venue_Location": "PMC"
+  },
+  {
+    "Title": "Mock Placement",
+    "Description": "Mock Placement is an event designed to simulate a real-world campus recruitment process. It allows students to experience the challenges of placement drives, refine their interview skills, and understand industry expectations. The goal is to familiarize students with the recruitment process by simulating rounds such as aptitude tests, group discussions, and personal interviews. It provides hands-on experience in facing interviews while offering constructive feedback to help students improve.",
+    "Rules": null,
+    "Prize_Pool": "",
+    "Venue_Location": "A4 Hall"
+  },
+  {
+    "Title": "Chess Programmer",
+    "Description": "A Chess Programmer is a professional who designs and develops software that plays chess or analyzes chess games. This role involves coding algorithms that allow the program to evaluate positions, calculate optimal moves, and simulate gameplay. Chess programmers often work with artificial intelligence and machine learning to improve the program's ability to mimic human-like strategy or enhance its playing strength. Their work is critical in creating chess engines, apps, and online platforms that challenge players and support chess training.",
+    "Rules": "1. TEAM STRUCTURE\n1. Each team can have 1 to 3 members.\n2. One member must be designated as the team leader.\n3. Multiple teams from the same institution are allowed.\n2. COMPETITION FORMAT\n1. Coding Phase: Each team will be given 3 hours to develop their chess bot using machine learning.\n2. Bot Testing: After the coding phase, teams will test their bots for functionality and fairness.\n3. Tournament Phase: All bots will compete in a knockout-style chess tournament.\n4. Winning Criteria: The last bot standing in the tournament will be declared the winner.\n3. RULES & GUIDELINES\n1. Teams must develop a fully automated chess bot capable of playing chess without human intervention.\n2. The programming language and libraries used are open-ended, but teams must ensure compatibility with the event setup.\n3. Internet access will be restricted during the coding phase.\n4. Bots should adhere to standard chess rules (FIDE rules for movement and checkmate conditions apply).\n5. Any team found using pre-trained models or existing chess engines without modifications will be disqualified.\n6. Code plagiarism is strictly prohibited and will result in immediate disqualification.\n7. The decision of the judges and event coordinators will be final and binding.",
+    "Prize_Pool": "5000",
+    "Venue_Location": "A4 Hall"
+  },
+  {
+    "Title": "Data Science",
+    "Description": "Data Science is an interdisciplinary field that combines statistics, programming, and domain knowledge to extract insights from data. This event is designed for students interested in data analytics, machine learning, and artificial intelligence. Participants will work on real-world datasets, apply data science techniques, and solve complex problems. Whether you're a beginner or an experienced data enthusiast, this event will challenge your analytical and problem-solving skills.",
+    "Rules": null,
+    "Prize_Pool": "5000",
+    "Venue_Location": "EXTC Department"
+  },
+  {
+    "Title": "Jr. Scientist",
+    "Description": "A Jr. Scientist is an entry-level position in scientific research or development, typically held by individuals with a relevant academic background (such as a degree in science or engineering). Jr. Scientists assist in conducting experiments, collecting and analyzing data, and supporting senior researchers or scientists in various projects. They may work in laboratories, research institutions, or industries like pharmaceuticals, biotechnology, or environmental science, contributing to scientific discovery and innovation.",
+    "Rules": null,
+    "Prize_Pool": "10000",
+    "Venue_Location": "AB4"
+  },
+  {
+    "Title": "Astro Quest",
+    "Description": "The competition comprises of debate and quiz which is oriented about fascinating subject of space & Astronomy",
+    "Rules": "1. Debate:\nRandom topic would be given on spot to teams where one team will be (the affirmative) supporting the motion, and the other (the negative) opposing the motion in competitive environment.\na. The team supporting the motion must not shift its point of view. The same goes for the opposition, who must oppose the motion completely.\nb. If a speaker makes a statement, they must be able to provide evidence or reasons to support the statement.\nc. Facts presented in a debate must be accurate.\n2. Quiz:\nThe quiz will be taken in round format mode which will test the factual aspect of contestants. Various rounds such as Buzzer, Rapid fire, Picture identification, etc. will be conducted.",
+    "Prize_Pool": "5000",
+    "Venue_Location": "A3 Hall"
+  },
+  {
+    "Title": "Math e Magic",
+    "Description": "Math-e-Magic is a competition designed to challenge participants' problem-solving skills and mathematical reasoning.",
+    "Rules": "Participation Details:\n1. Team Participation: Teams can have up to 3 members.\n2. Individual Participation: Solo participants will compete alongside teams.\n\nEvent Structure:\nStage 1: Elimination Round\n- Format: Teams solve a question paper.\n- Syllabus: 10+2 Level Mathematics\n- Duration: 30 minutes\n- Questions: 15 multiple-choice questions\n- Marking Scheme: +4 for correct, -1 for incorrect, 0 for no answer\n- Outcome: Top 50% of teams advance to Stage 2.\n\nStage 2: Advanced Rounds\n1. Buzzer Round:\n   - Teams press the buzzer to answer.\n   - Scoring: +10 for correct, -5 for incorrect\n   - No discussion allowed post-buzzer\n   - Simultaneous buzzers: Answers on paper; points split if both correct\n2.Paragraph Round:\n   - Analyze a provided context and answer two questions.\n   - Scoring: +10 per correct answer\n3. Surprise Round:\n   - Details disclosed during the event",
+    "Prize_Pool": "5000",
+    "Venue_Location": "AB6"
+  }
+]

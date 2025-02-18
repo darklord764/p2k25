@@ -1,0 +1,324 @@
+* {
+  margin: 10;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Boiling";
+  src: url("./fonts/BadMofo.ttf");
+}
+
+@font-face {
+  font-family: "Bad-mofo";
+  src: url("./fonts/BadMofo.ttf");
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  width: 100vw;
+}
+
+.about-container{
+  position: relative;
+}
+
+.well {
+  min-height: 100vh;
+}
+
+.panel {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  /* scroll-snap-align: start; */
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  cursor: default;
+}
+
+video {
+  min-width: 100%;
+  min-height: 50vh;
+  z-index: -1;
+  object-fit: cover;
+}
+
+.overlay {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 50, 0.6);
+  background-size: 3px 3px;
+  /* z-index: 2; */
+}
+
+@keyframes bubbles {
+  from {
+    transform: translate();
+  }
+  to {
+    transform: translate(0, -66.666%);
+  }
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    clip-path: polygon(
+      0% 45%,
+      16% 44%,
+      33% 50%,
+      54% 60%,
+      70% 61%,
+      84% 59%,
+      100% 52%,
+      100% 100%,
+      0% 100%
+    );
+  }
+
+  50% {
+    clip-path: polygon(
+      0% 60%,
+      15% 65%,
+      34% 66%,
+      51% 62%,
+      67% 50%,
+      84% 45%,
+      100% 46%,
+      100% 100%,
+      0% 100%
+    );
+  }
+}
+
+#astronaut {
+  position: absolute;
+  right: 11vw;
+  height: auto;
+  top: 1vh;
+  margin: auto;
+  z-index: 3;
+  animation: astronaut 4s ease-in-out infinite alternate;
+}
+
+@keyframes astronaut {
+  from {
+    transform: translateY(0%);
+  }
+  to {
+    transform: translateY(20%);
+  }
+}
+
+
+@keyframes planet {
+  from {
+    transform: rotateZ(0deg);
+  }
+  to {
+    transform: rotateZ(360deg);
+  }
+}
+
+.about {
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about-box {
+  min-height: 50vh;
+  max-height: 100vh;
+  width: 67vw;
+  z-index: 2;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.7;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+  border-radius: 30px;
+  border: #c75326 solid 5px;
+  position: absolute;
+  top: 15.5vh;
+  left: 15vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.about-box h1 {
+  color: white;
+  font-family: "Bad-mofo";
+  font-size: 3.5rem;
+  position: absolute;
+  top: 1vh;
+  margin-bottom: 1rem;
+}
+
+.about-text {
+  color: white;
+  font-size: 1.2rem;
+  margin: 9% 8%;
+  padding-top: 1.5rem;
+}
+
+/* @media (max-width: 500px) {
+  .card {
+    display: block;
+  }
+  .about-box h1{
+    font-family: 10px;
+  }
+  #astronaut {
+    position: absolute;
+    right: 11vw;
+    height: auto;
+    top: 1vh;
+    margin: auto;
+    z-index: 3;
+    animation: astronaut 4s ease-in-out infinite alternate;
+  }
+} */
+
+
+@media only screen and (max-width: 1020px) {
+  html {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    font-size: 12px;
+    display: block;
+  }
+  .about-text {
+    padding-top: 2.2rem;
+      font-weight: bold;
+      font-size: 3rem;
+      color: #fff;
+  }
+  #astronaut{
+    position: absolute;
+    right: 12vw;
+    height: auto;
+    top: 7vh;
+    margin: auto;
+    z-index: 3;
+    animation: astronaut 4s ease-in-out infinite alternate;
+  }
+}
+
+
+@media (max-width: 1200px) {
+  .about-text {
+    padding-top: 1.5rem;
+      /* font-weight: bold; */
+      font-size: 1rem;
+      color: #fff;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  };
+}
+
+@media (max-width: 900px) {
+  .about-text {
+      /* font-weight: bold; */
+      padding-top: 4rem;
+      font-size: 1rem;
+      color: #fff;
+  }
+  #astronaut{
+    position: absolute;
+    right: 10vw;
+    height: auto;
+    top: 7vh;
+    margin: auto;
+    z-index: 3;
+    animation: astronaut 4s ease-in-out infinite alternate;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  };
+}
+
+@media (max-width: 700px) {
+  .about-text {
+      /* font-weight: bold; */
+      padding-top: 4rem;
+      font-size: 1rem;
+      color: #fff;
+  }
+  #astronaut{
+    position: absolute;
+    right: 6.6vw;
+    height: auto;
+    top: 7vh;
+    margin: auto;
+    z-index: 3;
+    animation: astronaut 4s ease-in-out infinite alternate;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  };
+}
+
+@media (max-width: 500px) {
+  .about-text {
+      /* font-weight: bold; */
+      padding-top: 4rem;
+      font-size: 1rem;
+      color: #fff;
+  }
+  #astronaut{
+    position: absolute;
+    right: 3.5vw;
+    height: auto;
+    top: 6vh;
+    margin: auto;
+    z-index: 3;
+    animation: astronaut 4s ease-in-out infinite alternate;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+  };
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,190 @@
+/* Container Styles */
+.home-container {
+  position: relative;
+  padding-top: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  height: auto;
+}
+
+/* Card Styles */
+.profile-card {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-color: rgba(82, 82, 82, 0.176);
+  padding: 34px;
+  border-radius: 50%;
+  box-shadow: -5px 8px 45px rgba(51, 51, 51, 0.126);
+  transition: all 0.4s ease;
+  margin: 20px;
+  z-index: 1000;
+  gap: 3rem;
+  color:white;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+/* Image Container */
+.profile-card .img {
+  position: relative;
+  margin-bottom: 20px;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+}
+
+.profile-card .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  transition: all 0.4s ease;
+}
+
+/* Caption Section */
+.profile-card .caption {
+  text-align: center;
+  transform: translateY(-90px);
+  opacity: 0;
+  gap: 10px;
+  pointer-events: none;
+  transition: all 0.5s ease;
+  position: relative;
+}
+
+.profile-card .caption h3 {
+  font-size: 15px;
+  color: #ffffff;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.profile-card .caption p {
+  font-size: 12px;
+  font-weight: 500;
+  margin: 2px 0 12px 0;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Social Links */
+.profile-card .social-links {
+  display: flex;
+  font-size: 20px;
+  justify-content: space-evenly;
+  position: relative;
+}
+
+.profile-card .social-links a {
+  color: #ffffff;
+  text-decoration: none;
+  gap: 7px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+/* Hover Effects */
+.profile-card:hover {
+  border-radius: 10px;
+  height: 300px;
+}
+
+.profile-card:hover .img img {
+  border-radius: 10px;
+  transform: translateY(-70px);
+}
+
+.profile-card:hover .caption {
+  opacity: 1;
+  pointer-events: all;
+}
+
+/* Social Icons Hover Effects */
+.profile-card .social-links .insta:hover {
+  color: rgb(255, 0, 251);
+  font-size: 21px;
+  transform: translateY(-2px);
+}
+
+.profile-card .social-links .linkedin:hover {
+  color: #0077b5;
+  font-size: 21px;
+  transform: translateY(-2px);
+}
+
+.profile-card .social-links .email:hover {
+  color: #b5000f;
+  font-size: 21px;
+  transform: translateY(-2px);
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .home-container {
+    padding-top: 60px;
+    z-index: -1000;
+  }
+
+  .profile-card {
+    margin: 15px;
+    width: 220px;
+    height: 220px;
+  }
+
+  .main1,
+  .main {
+    font-size: 20px;
+  }
+}
+
+/* Background Elements */
+.background-squares {
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.navbar-mobile.open {
+  z-index: 1000;
+}
+.team-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem; /* space between cards */
+  justify-content: center;
+}
+
+.team-card {
+  flex: 1 1 20%; /* Each card takes 20% of the row width, so four cards fit in one row */
+  max-width: 300px; /* Optional: set a max-width to control card size */
+  transition: transform 0.3s ease-in-out;
+}
+
+.team-card:hover {
+  transform: scale(1.05);
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 1024px) {
+  .team-card {
+    flex: 1 1 45%; /* Two cards per row for tablets */
+  }
+}
+
+@media (max-width: 768px) {
+  .team-container {
+    justify-content: center; /* Centers the cards horizontally */
+  }
+
+  .team-card {
+    flex: 1 1 90%; /* Single card per row for small screens */
+    max-width: 320px; /* Optional: adjust the max-width for smaller screens */
+    margin: 0 auto; /* Centers each card individually */
+  }
+}

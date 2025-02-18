@@ -1,0 +1,151 @@
+{
+    "director": {
+      "id": "dir1",
+      "name": "Dr. John Smith",
+      "designation": "Director",
+      "department": "Institute Director",
+      "image": "/images/director.jpg",
+      "email": "director@institute.edu",
+      "phone": "+91-XXXXXXXXXX"
+    },
+    "dean": {
+      "id": "dean1",
+      "name": "Dr. Sarah Johnson",
+      "designation": "Dean Student Affairs",
+      "department": "Student Affairs",
+      "image": "/images/dean.jpg",
+      "email": "dean.sa@institute.edu",
+      "phone": "+91-XXXXXXXXXX"
+    },
+    "coordinators": [
+      {
+        "id": "coord1",
+        "name": "Dr. Michael Brown",
+        "designation": "Academic Coordinator",
+        "department": "Academics",
+        "image": "/images/coord1.jpg",
+        "email": "academic.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "coord2",
+        "name": "Dr. Emily Davis",
+        "designation": "Research Coordinator",
+        "department": "Research",
+        "image": "/images/coord2.jpg",
+        "email": "research.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "coord3",
+        "name": "Dr. Robert Wilson",
+        "designation": "Student Welfare Coordinator",
+        "department": "Student Welfare",
+        "image": "/images/coord3.jpg",
+        "email": "welfare.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      }
+    ],
+    "departmentalCoordinators": [
+      {
+        "id": "deptcoord1",
+        "name": "Dr. Padma Bagde",
+        "designation": "EXTC Coordinator",
+        "department": "EXTC",
+        "image": "/images/extc-coord.jpg",
+        "email": "extc.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord2",
+        "name": "Dr. Anand Chavan",
+        "designation": "Chemical Coordinator",
+        "department": "Chemical",
+        "image": "/images/chemical-coord.jpg",
+        "email": "chemical.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord3",
+        "name": "Dr. Tejas Bhatkar",
+        "designation": "Civil Coordinator",
+        "department": "Civil",
+        "image": "/images/civil-coord.jpg",
+        "email": "civil.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord4",
+        "name": "Dr. A.D. Sawarkar",
+        "designation": "IT Coordinator",
+        "department": "IT",
+        "image": "/images/it-coord.jpg",
+        "email": "it.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord5",
+        "name": "Mr. Mahendra Sukre",
+        "designation": "Mechanical Coordinator",
+        "department": "Mechanical",
+        "image": "/images/mech-coord.jpg",
+        "email": "mech.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord6",
+        "name": "Dr. D.G. Wagre",
+        "designation": "Production Coordinator",
+        "department": "Production",
+        "image": "/images/prod-coord.jpg",
+        "email": "prod.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord7",
+        "name": "Dr. Prakash Khude",
+        "designation": "Textile Coordinator",
+        "department": "Textile",
+        "image": "/images/textile-coord.jpg",
+        "email": "textile.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord8",
+        "name": "Mr. Nayan Bijwe",
+        "designation": "Electrical Coordinator",
+        "department": "Electrical",
+        "image": "/images/electrical-coord.jpg",
+        "email": "electrical.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord9",
+        "name": "Mr. A.S. Jadhav",
+        "designation": "Instrumentation Coordinator",
+        "department": "Instrumentation",
+        "image": "/images/instru-coord.jpg",
+        "email": "instru.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord10",
+        "name": "Prof. P.G. Kolapwar",
+        "designation": "CSE Coordinator",
+        "department": "Computer Science",
+        "image": "/images/cse-coord.jpg",
+        "email": "cse.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      },
+      {
+        "id": "deptcoord11",
+        "name": "Dr. Shilpa Chavhan",
+        "designation": "First Year Coordinator",
+        "department": "First Year Department",
+        "image": "/images/firstyear-coord.jpg",
+        "email": "firstyear.coord@institute.edu",
+        "phone": "+91-XXXXXXXXXX"
+      }
+    ]
+  }
+  

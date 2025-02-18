@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "Float a boat",
+    "Description": "This Competition is to design & construct a boat using any kinf of material available that can float on water & carry maximum weight without sinking",
+    "Rules": "1. A team will be of minimum TWO participants.\n2. The boat must fit with in the size range of 30cm x 30cm.\n3. Participants can prepare a design and construct the boat beforehand.\n4. The boat will be tested by placing it in water tub.\n5. The boat should have flat surface at top to add load.\n6. Marks will be determined by,\n7. Ratio: total weight of boat / total weight taken by boat.\n8. The scoring will be given on the basis of the minimum ratio obtained.\n9. The decision made by our co-ordinator will be final and cannot be appealed.\n10. Student must carry a valid college ID card.",
+    "Prize_Pool": "30000",
+    "Venue_Location": "Civil Department"
+  },
+  {
+    "Title": "Bridge Building",
+    "Description": "Design and construct bridge using only specific materials provided.Test the Strength and Durability of your bridge as it withstands the weight of various load. Compete against other participant to see who bridge can hold most weight without collapsing & win Exciting Prizes",
+    "Rules": "1. A team will be of FOUR participants.\n2. Participants will have fixed limited time for construction i.e. 2 hours.\n3. Participants can prepare a design beforehand, but no pre-assembling parts are allowed.\n4. Participants may use only basic tools, no power tools are allowed.\n5. Once build, the bridge will be tested by placing incremental weight on it until the structure collapse. The last weight the bridge can hold will be the performance score.\n6. The decision made by our co-ordinator will be final and cannot be appealed.\n7. Student must carry a valid college ID card.",
+    "Prize_Pool": "30000",
+    "Venue_Location": "Civil Department"
+  },
+  {
+    "Title": "Town Planning",
+    "Description": "Engage in urban development challenges in the Town planning Participants can formulate strategic plans for optimizing land use, infrastructure and community amenities within a simulated town environment. Collaborate with team members to address various aspects of urban planning, including transportation systems, housing, green spaces, and commercial areas. Utilize advanced software tools and models to analyse data and simulate the impact of proposed planes on the community.",
+    "Rules": "1. A team will be of minimum TWO and maximum FOUR participants.\n2. Teams will plan a town as per the problem statement given and come with the drawing on the given date and time.\n3. Drawing on AutoCAD, PPT, drawing sheet or any other presentable mode is allowed.\n4. Each team will be provided 10 minutes to present their work and 5 minutes for QnA.\n5. The result will be judged based on completeness as per the problem statement, use of planning knowledge and skills. The decision ofjudges will be final.\n6. Student must carry a valid college ID card.\n7. Participant should not use any electronic accessories inside a venue hall.",
+    "Prize_Pool": "30000",
+    "Venue_Location": "Civil Department"
+  },
+  {
+    "Title": "Cad War",
+    "Description": "Compete in a CAD event to showcase and celebrate your creativity, skills, and innovation of by utilizing the Cad software.",
+    "Rules": "1. It is a solo competition i.e. only I participant.\n2. Software used will be AutoCAD.\n3. Plan (residential) will be given at the time of competition.\n4. The result will be judged based on completeness and time utilisation. Points are noted for drafting, detailing, labelling, and colouring. The decision of judges will be final.\n5. Participant must save the drawing on regular basis.\n6. Student must carry a valid college ID card.\n7. Participant should not use any electronic accessories inside a venue hall.\n8. If the total participants are more than 50 then there will be an elimination round.",
+    "Prize_Pool": "30000",
+    "Venue_Location": "Civil Department"
+  },
+  {
+    "Title": "Resume Building",
+    "Description": "A Resume Building Workshop is an interactive session designed to help individuals create or improve their resumes. Participants learn key strategies for structuring and formatting their resumes, highlighting their skills and experiences effectively. The workshop often covers tailoring resumes for specific job roles, using action verbs, optimizing for applicant tracking systems (ATS), and presenting accomplishments in a compelling way. The goal is to equip attendees with the tools to craft professional, standout resumes that increase their chances of securing job interviews.",
+    "Rules": null,
+    "Prize_Pool": "",
+    "Venue_Location": "Civil Department"
+  },
+  {
+    "Title": "Surveying Workshop",
+    "Description": "A Surveying Workshop is a hands-on session that teaches participants the fundamentals and techniques of land surveying. It covers various methods of measuring and mapping land features, using tools like theodolites, total stations, and GPS equipment. Participants learn how to collect data, analyze measurements, and create accurate maps or plans. The workshop often includes practical field exercises to provide real-world experience, helping attendees gain the skills needed for careers in surveying, construction, or engineering.",
+    "Rules": null,
+    "Prize_Pool": "",
+    "Venue_Location": "Civil Department"
+  }
+]

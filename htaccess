@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Allow direct access to static files in assets folder
+  RewriteCond %{REQUEST_URI} !^/assets/ [NC]
+  RewriteCond %{REQUEST_URI} !\.(js|css|png|jpg|gif|svg|ico|woff|woff2|ttf|eot|otf|json)$ [NC]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
+
+# Ensure JavaScript and CSS files have the correct MIME types
+AddType application/javascript .js
+AddType text/css .css

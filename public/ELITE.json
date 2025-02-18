@@ -1,0 +1,17 @@
+[
+    {
+      "Title": "Tech Quest",
+      "Description": "The Digital Electronics Treasure Hunt is an exciting event comprising three competitive rounds, designed to test participants' problem-solving abilities, technical knowledge, and teamwork skills in a fun and engaging environment.",
+      "Rules": "Participants: 2-4 members per team\n\nRound 1: Electronic Hunt\nObjective: Participants will identify hidden electronic components by solving a series of creative and themed clues.\nProcess:\n1. Teams will receive a set of clues linked to specific electronics components.\n2. Clues will lead them to designated locations where the components are hidden.\n3. Teams must find all components to qualify for the next round.\nSelection Criteria: The first Half of the teams will procced for round 2.\n\nRound 2: Circuit Building\nObjective: Teams will construct a functional circuit using a provided digital electronics schematic.\nDetails:\n1. All teams will receive identical circuit schematics.\n2. They must complete the circuit within 30 minutes.\n3. Necessary components and tools will be provided.\nSelection Criteria: The 2 teams with the most accurate and functional circuits, judged on performance and time, will proceed to the final round.\n\nFinal Round: Surprise Challenge\nObjective: Test individual problem-solving skills through a high-stakes challenge.\nDetails:\n1. Each team will select 1 representative for this round.\n2. A challenging question from electronics will be provided.\n3. Participants will have 15 minutes to solve the problem.\nWinning Criteria: The individual who correctly solves the question in the shortest time will win the event for their team",
+      "Prize_Pool": "5000",
+      "Venue_Location": "EXTC Department"
+    },
+    {
+      "Title": "Paper Presentation",
+      "Description": "Showcase Your Innovation! Step into the spotlight and present your groundbreaking ideas at Technical Paper Presentation, where knowledge meets innovation! This event provides a platform for students and researchers to share their insights, research findings, and technological advancements with a panel of experts. Whether it's engineering, science, or emerging technologies, this is your chance to demonstrate your expertise, enhance your presentation skills, and engage in thought-provoking discussions. Innovate, Present, Inspire—Are you ready to make an impact?",
+      "Rules": "Team Composition:\n1. Teams can have 1 to 2 members.\n2. Only one participant will present, but both can answer questions.\n\nPaper Format:\n1. Submit papers in IEEE format (PDF) before the deadline.\n2. The paper should include Abstract, Introduction, Methodology, Results, Conclusion, and References.\n\nPresentation:\n1. Time Limit: 7 minutes for presentation + 3 minutes for Q&A.\n2. Use PowerPoint slides (PPT format).\n\nOriginality:\n1. Plagiarism should be less than 10%.\n2. Only original research or reviews will be accepted.\n\nJudging Criteria:\n1. Content Quality and Relevance (25%)\n2. Presentation Skills (25%)\n3. Creativity and Innovation (25%)\n4. Q&A Handling (25%)\n\nConduct:\n1. Participants must arrive 15 minutes early.\n2. Use of foul language or misconduct will lead to disqualification.\n\nDecision:\n1. Judges' decision will be final and binding.",
+      "Prize_Pool": "30000",
+      "Venue_Location": "A4 Hall"
+    }
+    
+  ]

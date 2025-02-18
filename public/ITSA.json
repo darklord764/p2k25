@@ -1,0 +1,21 @@
+[
+    {
+        "Title": "Coding Contest",
+        "Description": "The Ultimate Coding Contest! Put your programming skills to the test in the ultimate coding contest, an intense coding competition where logic, speed, and problem-solving take center stage! Compete against fellow coders to solve algorithmic challenges, debug programs, and optimize solutions within the given time. Whether you're a beginner or an expert, this event pushes your coding abilities to the next level. *Think, code, conquer—are you ready for the challenge?*",
+        "Prize_Pool": "5000",
+        "Venue_Location": "EXTC Department"
+    },
+    {
+        "Title": "Tech Quest",
+        "Description": "The Digital Electronics Treasure Hunt is an exciting event comprising three competitive rounds, designed to test participants' problem-solving abilities, technical knowledge, and teamwork skills in a fun and engaging environment.",
+        "Prize_Pool": "5000",
+        "Venue_Location": "EXTC Department"
+    },
+    {
+        "Title": "Python for AI/ML",
+        "Description": "Python for AI/ML refers to the use of the Python programming language to develop and implement artificial intelligence (AI) and machine learning (ML) models. Python is popular in this field due to its simplicity, rich libraries (like TensorFlow, Keras, and scikit-learn), and strong community support. It enables data scientists and developers to efficiently build, train, and deploy AI and ML algorithms, making it a top choice for tasks like data analysis, pattern recognition, and predictive modeling.",
+        "Prize_Pool": "N/A",
+        "Venue_Location": "AB6"
+    }
+    
+]

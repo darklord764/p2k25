@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "BatmanForever";
+    src: url("./Font/batmfa__.ttf") format("truetype");
+  }
+  
+  body {
+    font-family: "BatmanForever", sans-serif; /* Fallback to sans-serif */
+  }
+  

@@ -1,0 +1,58 @@
+[
+    {
+        "Title": "Contraption Cascade",
+        "Description": "The Contraption Challenge is a creative and technical competition where teams design and build functional contraptions within a specified space. The objective is to move a ball from one end of the contraption to the other, utilizing innovative pathways such as loops, slopes, and jumps.",
+        "Rules": {
+            "Team_Requirements": {
+                "Size": "4-5 members",
+                "Minimum_Conversions": "7 conversions throughout game path"
+            },
+            "Dimensions": {
+                "Area": "1.5m x 1.5m",
+                "Height": "No limit, must remain functional"
+            },
+            "Time_Limits": {
+                "Assembly": "2 hours for assembly and testing",
+                "Testing": "Final test after assembly phase"
+            },
+            "Game_Path_Rules": [
+                "Move ball from one end to other",
+                "Create paths using loops, slopes, air routes, water routes",
+                "Design modifications allowed during building phase"
+            ],
+            "Guidelines": [
+                "Contraptions must be safe",
+                "No hazardous materials",
+                "Unsafe designs lead to disqualification"
+            ],
+            "Attempts": {
+                "Maximum": "2 attempts",
+                "Scoring": "Best attempt considered"
+            },
+            "Scoring": {
+                "Base_Points": {
+                    "Completeness": "40 points",
+                    "Creativity": "30 points",
+                    "Conversions": "10 points each"
+                },
+                "Bonus_Points": {
+                    "Loops": "5 points per complete loop",
+                    "Jumps": "5 points per successful jump",
+                    "Height": "10 points for 50cm climb"
+                },
+                "Penalties": {
+                    "Hand_Touch": "-5 points per touch",
+                    "Boundary_Cross": "Restart required"
+                }
+            }
+        },
+        "Prize_Pool": "15006",
+        "Venue_Location": "Mechanical Department"
+    },
+    {
+        "Title": "Gear Based Puzzle",
+        "Description": "Gear Bases Puzzle competition aims to challenge participants to design and build gear mechanisms that achieve specific objectives, such as Speed Reduction Torque Multiplication Direction Reversal Specific Gear Ratios Complex Motion",
+        "Venue_Location": "Mechanical Department"
+    }
+    
+]
