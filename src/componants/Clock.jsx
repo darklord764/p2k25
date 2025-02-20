@@ -8,7 +8,7 @@ function Clock() {
       {/* Countdown Timer */}
       <div className="countdown-box">
         <Countdown
-          date={new Date("2025-02-22T00:00:00")}
+          date={new Date("2025-02-21T00:00:00")}
           className="countdown-timer"
         />
 

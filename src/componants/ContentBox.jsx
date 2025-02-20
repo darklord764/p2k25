@@ -94,7 +94,11 @@ const StyledWrapper = styled.div`
       drop-shadow(0 0 20px rgba(2, 2, 2, 1));
     transform: rotate(-35deg);
   }
-`;
+  #stay {
+    padding-left: 20px;
+    margin-left: 20px;
+  }
+  `;
 
 
 const ContentBox = () => {
@@ -114,17 +118,14 @@ const ContentBox = () => {
             2025 February
           </span>
           <StyledWrapper>
-      <button className="styled-button">
-      <a
-              className="nav-link scrollto"
-              href="https://forms.gle/uu8Teaq37hSfGyLf7"
-              
-            >
-              Register Now
-            </a>
-   
-      </button>
-    </StyledWrapper>
+            <button className="styled-button">
+              <a className="nav-link scrollto" href="https://forms.gle/uu8Teaq37hSfGyLf7">Register Now</a>
+            </button>
+
+            <button id="stay" className="styled-button">
+              <a className="nav-link scrollto" href="https://forms.gle/38Bp7grncJeSKVid6">Accomodations</a>
+            </button>
+        </StyledWrapper>
         </div>
         <Clock />
       </div>
