@@ -15,20 +15,20 @@ const SchedulePage = () => {
 
   const eventSchedules = {
     1: [
-      { id: 1, name: "Opening/Inauguration Event", organizer: "Team Pragyaa", timing: "10 AM - 11 AM", Venue: "Auditorium" },
-      { id: 2, name: "Python For AIML", organizer: " ", timing: "1 PM - 4 PM", Venue: "IT Dept" },
-      { id: 3, name: "CAD & CATIA", organizer: "CAD & CATIA", timing: "1 PM - 4 PM", Venue: "Prod Dept" },
+      { id: 1, name: "Opening/Inauguration Event", organizer: "PRAGYAA", timing: "10 AM - 11 AM", Venue: "Auditorium" },
+      { id: 2, name: "Surveying Workshop", organizer: "CESA ", timing: "1 PM - 4 PM", Venue: "Civil Dept" },
+      { id: 3, name: "CAD & CATIA", organizer: "PESA", timing: "1 PM - 4 PM", Venue: "Mechanical Dept" },
       { id: 4, name: "Surveying/Resume Building", organizer: "CESA", timing: "1 PM– 4 PM", Venue: "Civil Dept" },
-      { id: 5, name: "RC Car racing(round 1)", organizer: "PRAGYAA", timing: "2 PM onwards", Venue: "2 PM onwards" },
-      { id: 6, name: "valorant", organizer: "PRAGYAA", timing: " 5 PM onwards", Venue: "Comming soon" },
-      { id: 7, name: "Paper Presentation (Domain1)", organizer: "PRAGYAA", timing: " 5 PM onwards", Venue: "A4Hall/Seminar Hall" },
+      { id: 5, name: "RC Boat racing", organizer: "PRAGYAA", timing: "4 PM to 7 PM", Venue: "PMC" },
+      { id: 6, name: "Valorant", organizer: "PRAGYAA", timing: " 5 PM onwards", Venue: "Comming soon" },
+      { id: 7, name: "Technical Paper Presentation", organizer: "PRAGYAA", timing: "1 PM to 5 PM", Venue: "A4Hall/Seminar Hall" },
       { id: 8, name: "4.	Math – e - magic", organizer: "BMC", timing: "12 noon – 4 PM", Venue: "AB6" },
       { id: 9, name: "Voltage Voyage", organizer: "EESA", timing: "2 PM - 5 PM", Venue: "Electrical Dept" },
       { id: 10, name: "Tex Quiz", organizer: "TESA", timing: "2 PM – 5 PM", Venue: "Textile Dept" },
       { id: 11, name: "7.	Bridge Buildingt", organizer: "CESA", timing: " 3 PM - 6.30 PM", Venue: "Civil Dept" },
       { id: 12, name: "Coding Contest", organizer: "ITSA", timing: " 5 PM onwards", Venue: "IT Dept" },
       { id: 13, name: "BGMI", organizer: "MESA", timing: " 5 PM onwards", Venue: "IT Dept" },
-      { id: 14, name: "Gear Based Puzzle", organizer: "MESA", timing: " 5 PM onwards", Venue: "Mech Dept" },
+      { id: 14, name: "Gear Based Puzzle", organizer: "MESA", timing: " 5 PM onwards", Venue: "Mech Dept" }, 
       { id: 15, name: "IPL auction", organizer: "PRAGYAA", timing: "7:30 PM Onwards", Venue: "Comming soon" },
     ],
 

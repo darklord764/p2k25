@@ -9,6 +9,7 @@ import Navbar from "./Navbar/Navbar";
 import BackToTopButton from "./componants/BackToTop";
 import SchedulePage from "./SchedulePage/SchedulePage";
 import MainContent from "./MainContent";
+import Faculty from "./componants/Faculty/FacultyComponants"
 import Team from "./Team/Team";
 import CardGrid from "./EventPage/CardGrid";
 import Workshop from "./EventPage/WorkShop/Workshop";
@@ -142,6 +143,7 @@ const AppContent = () => {
         <Route path="/events/exhibitions/" element={<Exhibition />} />
         <Route path="/events/exhibitions/:title" element={<DetailExhibition />} />
         {/* //Deparmental */}
+        <Route path="/faculty" element={<Faculty />} />
         <Route path="/events/deparmental-events/textile/" element={<Texttile/>} />
         <Route path="events/deparmental-events/textile/:title" element={<TextileDetails/>} />
         <Route path="/events/deparmental-events/cs/" element={<Cs/>} />

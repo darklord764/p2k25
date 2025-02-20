@@ -198,6 +198,14 @@ const Header = ({ isHomePage }) => {
           <li>
             <button
               className="nav-item nav-link"
+              onClick={() => handleNavigation("/faculty")}
+            >
+              Faculty
+            </button>
+          </li>
+          <li>
+            <button
+              className="nav-item nav-link"
               onClick={() => handleNavigation("/events")}
             >
               EVENTS
@@ -296,6 +304,14 @@ const Header = ({ isHomePage }) => {
             >
               TEAM
             </a>
+          </li>
+          <li>
+            <button
+              className="nav-item nav-link"
+              onClick={() => handleNavigation("/faculty")}
+            >
+              Faculty
+            </button>
           </li>
           <li>
             <a
