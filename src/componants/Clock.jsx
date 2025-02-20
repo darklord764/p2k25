@@ -32,7 +32,7 @@ function Clock() {
     <div className="clock-container">
       <div className="countdown-box">
         <Countdown
-          date={new Date("2025-02-20T00:00:00")}
+          date={new Date("2025-02-21T00:00:00")}
           renderer={renderer}
         />
 
