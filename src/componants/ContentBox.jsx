@@ -127,7 +127,7 @@ const ContentBox = () => {
             </button>
         </StyledWrapper>
         </div>
-        <Clock />
+        {/* <Clock /> */}
       </div>
     </div>
   );

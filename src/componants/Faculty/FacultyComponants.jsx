@@ -42,7 +42,7 @@ function FacultyComponants() {
             <div className="team-card">
               <TeamCard
                 name="Dr. s. B. dethe"
-                position="deam of student afffairs"
+                position="dean of student afffairs"
                 instagram=""
                 linkedin="adsfasfd"
                 email="2022BIN008@sggs.ac.in" jpg
